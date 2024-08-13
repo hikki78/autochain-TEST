@@ -1,6 +1,6 @@
 ## Details for the Project:
-This is a simple smartcontract and a Jest unit test of the smart contract.
-The detail process of running the smartcontract as well as the test is given below.
+This is a dummy Jest unit test of the smart contract.
+The detail process of running the project is given below.
 
 
 ## Installation
